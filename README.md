@@ -18,7 +18,8 @@ Developed a dynamic web-based to-do list application that allows users to effici
 
 ## 📸 Screenshots
 
-![To-Do List Screenshot](screenshot.png) <!-- Replace with your actual image path -->
+![Screenshot (29)](https://github.com/user-attachments/assets/5cf115e3-5767-4416-9dff-a84f834e609d)
+
 
 ## 🧩 How It Works
 
