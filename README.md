@@ -20,6 +20,8 @@ Developed a dynamic web-based to-do list application that allows users to effici
 
 ![Screenshot (29)](https://github.com/user-attachments/assets/5cf115e3-5767-4416-9dff-a84f834e609d)
 
+Below the title, a white input field lets users enter a new task—currently showing "Orange." A green "Add" button submits the task to the list. Tasks like "Apple," "Mango," and "Grapes" appear in light gray boxes. Each task has a blue "Done" button to mark it complete, a yellow-orange "Edit" button to modify it, and a red "Delete" button to remove it.
+
 
 ## 🧩 How It Works
 
